@@ -5,7 +5,7 @@ A web-based memory game where players replicate a sequence of colors generated b
 ---
 
 ## 🖥️ Demo
-🎮 Enjoy The Game : [[ Start ](https://kristoffer-7744.github.io/Simon_says_game/) ].
+🎮 Enjoy The Game : [[ Start ](https://radhika7780.github.io/simon_says_game/) ].
 
 ---
 
@@ -36,15 +36,8 @@ simon-says-game/
 
 ---
 
-## how to use
-### 1. Clone or download the repository
-```base
-git clone <https://github.com/kristoffer-7744/Simon_says_game.git>
-```
 
----
-
-### 2. Open the project
+###  Open the project
 -pen the index.html file any modern browser.
 -Click the Start button to begin the game.
 -Watch the sequence of colors flashed by the game.
@@ -60,15 +53,8 @@ git clone <https://github.com/kristoffer-7744/Simon_says_game.git>
 
 ---
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
----
 
-## License
-This project is open-source and availible under the [MIT License](LICENSE).
-
----
 
 ### Contact
-FOr any questions or suggestions, please contact [krishnairmalwar7744@gmail.com].
+FOr any questions or suggestions, please contact [jessani.radhika@gmail.com].
